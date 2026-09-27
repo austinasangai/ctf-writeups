@@ -1,0 +1,6 @@
+*.ovpn
+*.pem
+*.key
+burp_project.burp
+.env
+*.log
